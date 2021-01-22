@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="driver-connector">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/driver-connector/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver-connector/UCanAccess-5.0.0-bin.zip!/" />
+      <root url="jar://$PROJECT_DIR$/driver-connector/hsqldb-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver-connector/ucanaccess-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver-connector/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/driver-connector/jackcess-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

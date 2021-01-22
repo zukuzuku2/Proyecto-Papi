@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Segundo_Catalogo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Segundo_Catalogo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

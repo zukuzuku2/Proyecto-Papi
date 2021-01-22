@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Segundo_Catalogo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Segundo_Catalogo_jar</output-path>
+    <root id="archive" name="Segundo_Catalogo.jar">
+      <element id="module-output" name="Segundo_Catalogo" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/driver-connector/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/driver-connector/commons-lang3-3.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/driver-connector/jackcess-3.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/driver-connector/ucanaccess-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/driver-connector/hsqldb-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/AbsoluteLayout-RELEASE121.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
